@@ -1,6 +1,11 @@
 guacamole recipe
+
 ingredients
+
 -avacado
 -tomato
 -cilantro
 -onion
+-salt
+-garlic
+-lime
