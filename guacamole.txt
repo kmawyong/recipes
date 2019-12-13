@@ -9,3 +9,11 @@ ingredients
 -salt
 -garlic
 -lime
+
+protocol:
+smash avacado
+cut tomatoes cilantro and other ingredients
+mix everything together
+add salt to taste and lime juice
+
+You enjoy!
